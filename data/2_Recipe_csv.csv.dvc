@@ -1,0 +1,5 @@
+outs:
+- md5: 7d3e786db20d5e41a798cd4a5506a628
+  size: 79870426
+  hash: md5
+  path: 2_Recipe_csv.csv
