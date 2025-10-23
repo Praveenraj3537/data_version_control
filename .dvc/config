@@ -1,2 +1,5 @@
 [core]
     autostage = true
+    remote = local_remote
+['remote "local_remote"']
+    url = F:/REVA/2025-26/Minor-Degree/Data-Version-Control(DVC)/MyRemoteData
